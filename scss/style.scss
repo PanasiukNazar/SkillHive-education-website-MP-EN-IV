@@ -7,7 +7,7 @@ $white: #fff;
 $black: #000000;
 // $darken: #3a4348;
 
-$primary: #008c76ff;
+$primary: #d9b48fff;
 $secondary: #01d28e;
 
 @mixin border-radius($radius) {
@@ -58,7 +58,7 @@ $secondary: #01d28e;
         rgba(88, 145, 103, 1) 0%,
         rgba(88, 145, 103, 0) 100%
     );
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#008C76FF', endColorstr='#008C76FF', GradientType=1 );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#D9B48FFF', endColorstr='#D9B48FFF', GradientType=1 );
 }
 
 html {
